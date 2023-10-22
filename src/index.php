@@ -1,8 +1,7 @@
 <?php
 require_once ("Page/header.php");
 
-echo "Hello World";
-
+echo "Привет Мир";
 
 
 require_once ("Page/footer.php");
