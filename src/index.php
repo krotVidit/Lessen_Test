@@ -1,7 +1,7 @@
 <?php
 require_once ("Page/header.php");
 
-echo" Hello World";
+
 
 
 
